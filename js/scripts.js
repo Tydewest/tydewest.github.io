@@ -110,7 +110,7 @@
 		
         $(window).load(function(){
         $(".typing").typed({
-            strings: ["Apparently a Toxic Bitch "],    /* You can change the home section typing text from
+            strings: ["A UX/UI Designer, Graphic Designer, & Digital content creator "],    /* You can change the home section typing text from
 	                                                                                            here and do not use "&" use "and" */
             typeSpeed: 50
           });
