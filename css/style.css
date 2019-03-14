@@ -1,9 +1,7 @@
 /*
    
-    Template Name : Rolling - Freelancer Portfolio Template
-    Author : UiPasta Team
-    Website : https://www.uipasta.com/
-    Support : https://www.uipasta.com/contact-us/
+    Template Name : TYDEWEST VER: 1.01.1
+    Author : LACHY SCHUMACHER
 	
 	
 */
@@ -29,7 +27,7 @@
   13. Responsive
   14. Scroll To Top
   15. Useful Classes ( Such as : Margin, Padding, colors  "This classes will be helpful for you during designing/development time.")
-  16. UiPasta Credit
+  16. Credit
  
 
 */
@@ -1451,16 +1449,16 @@ ul.portfolio li.active {
 
 
 
-/* UiPasta Credit */
+/* Credit */
 
-.uipasta-credit {
+.credit {
 }
 
-.uipasta-credit a {
+.credit a {
     color: #24b662;
     font-weight: 600;
 }
 
-.uipasta-credit a:hover {
+.credit a:hover {
     color: #ffffff;
 }
