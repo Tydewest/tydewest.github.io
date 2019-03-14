@@ -1,7 +1,9 @@
 /*
    
-    Template Name : TYDEWEST VER: 1.01.1
-    Author : LACHY SCHUMACHER
+    Template Name : Rolling - Freelancer Portfolio Template
+    Author : UiPasta Team
+    Website : https://www.uipasta.com/
+    Support : https://www.uipasta.com/contact-us/
 	
 	
 */
@@ -27,7 +29,7 @@
   13. Responsive
   14. Scroll To Top
   15. Useful Classes ( Such as : Margin, Padding, colors  "This classes will be helpful for you during designing/development time.")
-  16. Credit
+  16. UiPasta Credit
  
 
 */
@@ -118,7 +120,7 @@ fieldset {
 .section-title h2 {
     margin-top: 0;
     font-weight: 600;
-    border-bottom: 4px double #FFFFFF;
+    border-bottom: 4px double #24b662;
 	border-radius: 25px;
     font-size: 30px;
     margin: 0 auto;
@@ -193,7 +195,7 @@ fieldset {
 .button-style:hover,
 .button-style:active,
 .button-style:focus {
-	background: #000000;
+	background: #24b662;
 	color: #ffffff !important;
 }
 
@@ -209,7 +211,7 @@ fieldset {
 }
 
 .button-style:active:before {
-	color: #000000;
+	color: #17954c;
 }
 
 .button-style-icon:before {
@@ -258,7 +260,7 @@ body.loaded #preloader{
     margin: -75px 0 0 -75px;
     border-radius: 50%;
     border: 3px solid transparent;
-    border-top-color: #000000;
+    border-top-color: #24b662;
     -webkit-animation: spin 2s linear infinite;
     animation: spin 2s linear infinite;
 }
@@ -272,7 +274,7 @@ body.loaded #preloader{
     bottom: 5px;
     border-radius: 50%;
     border: 3px solid transparent;
-    border-top-color: #000000;
+    border-top-color: #24b662;
     -webkit-animation: spin 3s linear infinite;
     animation: spin 3s linear infinite;
 }
@@ -286,7 +288,7 @@ body.loaded #preloader{
     bottom: 15px;
     border-radius: 50%;
     border: 3px solid transparent;
-    border-top-color: #000000;
+    border-top-color: #24b662;
     -webkit-animation: spin 1.5s linear infinite;
     animation: spin 1.5s linear infinite;
 }
@@ -1115,7 +1117,7 @@ ul.portfolio li.active {
 /* Scroll To Top */
 
 .scroll-to-top {
-    background-color: #0000000;
+    background-color: #24b662;
     display: none;
     width: 50px;
     height: 50px;
@@ -1449,16 +1451,16 @@ ul.portfolio li.active {
 
 
 
-/* Credit */
+/* UiPasta Credit */
 
-.credit {
+.uipasta-credit {
 }
 
-.credit a {
+.uipasta-credit a {
     color: #24b662;
     font-weight: 600;
 }
 
-.credit a:hover {
+.uipasta-credit a:hover {
     color: #ffffff;
 }
