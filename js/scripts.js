@@ -1,10 +1,3 @@
-ort/
-	
-	
-*/
-
-
-
 /*
    
    Table Of Content
