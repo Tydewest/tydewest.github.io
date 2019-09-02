@@ -1,9 +1,4 @@
-/*
-   
-    Template Name : Rolling - Freelancer Portfolio Template
-    Author : UiPasta Team
-    Website : http://www.uipasta.com/
-    Support : http://www.uipasta.com/support/
+ort/
 	
 	
 */
@@ -110,7 +105,7 @@
 		
         $(window).load(function(){
         $(".typing").typed({
-            strings: ["A UX/UI Designer.", "Graphic Designer.", "Digital Content Creator."],    /* You can change the home section typing text from
+            strings: ["Human.", "Faggot.", "Digital Content Creator."],    /* You can change the home section typing text from
 	                                                                                            here and do not use "&" use "and" */
             typeSpeed: 50
           });
