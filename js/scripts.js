@@ -102,15 +102,15 @@ ort/
 		
 		
         /* Typed.js */
-		
-        $(window).load(function(){
-        $(".typing").typed({
-            strings: ["A UX/UI Designer.", "Graphic Designer.", "Digital Content Creator."],/* You can change the home section typing text from
-	                                                                                            here and do not use "&" use "and" */
-            typeSpeed: 50
-          });
-         });
-        
+	
+		$(window).load(function(){
+	        $(".typing").typed({
+	            strings: ["I'm A Graphic Designer.", "I'm Also A Web Designer", "And Web Developer. "],    /* You can change the home section typing text from
+		                                                                                            here and do not use "&" use "and" */
+	            typeSpeed: 50
+	          });
+	         });
+	
 		 
         /* Parallax Background */
 
