@@ -98,7 +98,7 @@
 	
 		$(window).load(function(){
 	        $(".typing").typed({
-	            strings: ["Human.", "Developer",elem.innerHTML = "&#x1f604"],    /* You can change the home section typing text from
+	            strings: ["UI Designer", "Graphic Designer", "& DEVELOPER"],    /* You can change the home section typing text from
 		                                                                                            here and do not use "&" use "and" */
 	            typeSpeed: 50
 	          });
