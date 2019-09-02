@@ -100,7 +100,7 @@
 	        $(".typing").typed({
 	            strings: ["A UI Designer,", "Graphic Designer", " And Developer"],    /* You can change the home section typing text from
 		                                                                                            here and do not use "&" use "and" */
-	            typeSpeed: 35
+	            typeSpeed: 10
 	          });
 	         });
 	
